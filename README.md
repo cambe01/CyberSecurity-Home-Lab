@@ -7,7 +7,7 @@
 
 ## 📌 Project Summary
 
-As part of my preparation for a career in cybersecurity, I built a virtual home lab from scratch and conducted a full penetration test against a deliberately vulnerable target machine. This project covers the complete lifecycle of a security assessment — from reconnaissance through to exploitation, detection, and remediation — documented to a professional standard.
+As part of my preparation for a career in cybersecurity, I built a virtual home lab from scratch and conducted a full penetration test against a deliberately vulnerable target machine. This project covers the complete lifecycle of a security assessment from reconnaissance through to exploitation, detection, and remediation documented to a professional standard.
 
 ---
 
@@ -83,7 +83,7 @@ The report covers:
 
 ## 📸 Screenshots
 
-Evidence screenshots are stored in the [screenshots/](screenshots/) folder, including:
+Evidence screenshots are stored in the screenshots folder, including:
 - nmap scan output showing all open ports and services
 - Successful root shell access
 - Password hash extraction from /etc/shadow
