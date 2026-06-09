@@ -69,7 +69,7 @@ Both machines were configured on an isolated internal network with no external i
 
 The complete penetration test report is available here:
 
-👉 [View Full Report](https://github.com/cambe01/CyberSecurity-Home-Lab/blob/main/pentest-report.md)
+👉 [View Full Report](pentest-report.md)
 
 The report covers:
 - Detailed reconnaissance findings
